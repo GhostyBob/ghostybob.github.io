@@ -267,6 +267,7 @@ plugins:
   - jekyll-minifier
   - jekyll-paginate-v2
   - jekyll-regex-replace
+  - jekyll-scholar
   - jekyll-sitemap
   - jekyll-socials
   - jekyll-tabs
@@ -282,6 +283,7 @@ plugins:
   - al_folio_distill
   - al_folio_upgrade
   - al_folio_bootstrap_compat
+  - al_citations
   - al_cookie
   - al_analytics
   - al_ext_posts
