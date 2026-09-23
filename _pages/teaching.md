@@ -1,4 +1,4 @@
----
+<!---
 layout: page
 permalink: /teaching/
 title: teaching
@@ -6,7 +6,9 @@ description: Course materials, schedules, and resources for classes taught.
 nav: true
 nav_order: 6
 calendar: true
----
+--->
+
+> This page should be inacessible in the actual site. I have never taught a course, nor do I plan to.
 
 This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
 

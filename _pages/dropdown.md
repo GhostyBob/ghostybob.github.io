@@ -1,13 +1,16 @@
 ---
 layout: page
-title: submenus
+title: More
 nav: true
-nav_order: 8
+nav_order: 3
 dropdown: true
 children:
-  - title: bookshelf
-    permalink: /books/
+  - title: Resume
+    permalink: /resume/
   - title: divider
-  - title: blog
-    permalink: /blog/
+  - title: Repositories
+    permalink: /repositories/
+  - title: divider
+  - title: Bookshelf
+    permalink: /books/
 ---
