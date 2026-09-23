@@ -6,6 +6,7 @@ description: GitHub repositories relating to projects I've worked on.
 nav: false
 ---
 
+<!--
 {% if site.data.repositories.github_users %}
 
 ## GitHub Account
@@ -37,6 +38,7 @@ nav: false
 {% if site.data.repositories.github_repos %}
 
 ## Repositories
+-->
 
 <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
   {% for repo in site.data.repositories.github_repos %}

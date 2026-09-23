@@ -4,6 +4,6 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
-  - nomads-camps
-  - HyprlandDesktop
-  - ghostybob.github.io
+  - GhostyBob/nomads-camps
+  - GhostyBob/HyprlandDesktop
+  - GhostyBob/ghostybob.github.io
